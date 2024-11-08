@@ -3,11 +3,6 @@ Este repositorio contiene una serie de ejercicios prácticos en Java diseñados 
 
 ¿A quién está dirigido este proyecto?
 Este conjunto de ejercicios es ideal para principiantes que están dando sus primeros pasos en el mundo de la programación en Java. Los ejercicios propuestos están orientados a fortalecer habilidades básicas en el manejo de arrays, clases estándar y lógica de programación básica.
-
-Objetivos de los Ejercicios
-Familiarizarse con la manipulación de arrays y los ciclos en Java.
-Aprender a utilizar clases comunes como Scanner para la entrada de datos y Random para la generación de números aleatorios.
-Practicar la lógica de programación para resolver problemas de texto y cálculos matemáticos básicos.
 Descripción de los Ejercicios
 Ejercicio 1: Generar una palabra aleatoria
 Objetivo: Seleccionar y mostrar una palabra aleatoria de un array predefinido de colores.
