@@ -53,6 +53,4 @@ Conocimientos básicos de programación en Java (variables, tipos de datos, estr
 Cómo manipular y buscar en arrays en Java.
 El uso de clases como Scanner y Random.
 Aplicación de lógica de programación para resolver problemas de conteo, búsqueda, cálculo de promedios y generación de palabras aleatorias.
-Conclusión
-Estos ejercicios están diseñados para ayudarte a afianzar tus conocimientos en Java y mejorar tus habilidades prácticas en el lenguaje. ¡Sigue explorando y practicando para continuar creciendo como programador!
 
